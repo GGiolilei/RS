@@ -1,4 +1,4 @@
-package main.java.com.clinic.model;
+package com.clinic.model;
 
 public class Doctor {
       private int doctorId;
