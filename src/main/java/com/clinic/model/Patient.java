@@ -1,7 +1,7 @@
 package com.clinic.model;
 import java.sql.Date;
 public class Patient {
-     private int patientId;
+    private int patientId;
     private String firstName;
     private String lastName;
     private Date dateOfBirth;
