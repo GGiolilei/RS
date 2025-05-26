@@ -14,5 +14,5 @@ public class Doctor {
         this.specialty = specialty;
         this.contactNumber = contactNumber;
         this.email = email;
-    
+    }
 }
