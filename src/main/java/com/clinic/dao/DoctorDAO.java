@@ -4,6 +4,9 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+import com.clinic.model.Doctor;
+import com.clinic.util.DBConnection;
+
 public class DoctorDAO {
 
     public void addDoctor(Doctor doctor) throws SQLException {
