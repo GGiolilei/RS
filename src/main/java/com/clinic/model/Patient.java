@@ -18,5 +18,5 @@ public class Patient {
         this.contactNumber = contactNumber;
         this.address = address;
         this.medicalHistoryNotes = medicalHistoryNotes;
-    
+    }
 }

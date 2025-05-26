@@ -16,5 +16,5 @@ public class UrgencyQueue {
         this.urgencyLevel = urgencyLevel;
         this.reasonForVisit = reasonForVisit;
         this.status = status;
-    
+    }
 }
