@@ -1,4 +1,4 @@
-package main.java.com.clinic.dao;
+package com.clinic.dao;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

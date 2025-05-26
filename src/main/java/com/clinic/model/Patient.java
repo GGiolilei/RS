@@ -1,4 +1,4 @@
-package main.java.com.clinic.model;
+package com.clinic.model;
 import java.sql.Date;
 public class Patient {
      private int patientId;

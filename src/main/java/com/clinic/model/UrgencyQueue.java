@@ -1,4 +1,4 @@
-package main.java.com.clinic.model;
+package com.clinic.model;
 import java.sql.Timestamp;
 public class UrgencyQueue {
      private int queueId;

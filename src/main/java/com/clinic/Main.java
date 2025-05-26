@@ -1,15 +1,14 @@
-package main.java.com.clinic;
+package com.clinic;
 
 import java.sql.Date;
 import java.sql.Timestamp;
 import java.time.Instant;
-
-import main.java.com.clinic.dao.DoctorDAO;
-import main.java.com.clinic.dao.PatientDAO;
-import main.java.com.clinic.dao.UrgencyQueueDAO;
-import main.java.com.clinic.model.Doctor;
-import main.java.com.clinic.model.Patient;
-import main.java.com.clinic.model.UrgencyQueue;
+import com.clinic.dao.DoctorDAO;
+import com.clinic.dao.PatientDAO;
+import com.clinic.dao.UrgencyQueueDAO;
+import com.clinic.model.Doctor;
+import com.clinic.model.Patient;
+import com.clinic.model.UrgencyQueue;
 
 public class Main {
     public static void main(String[] args) {
