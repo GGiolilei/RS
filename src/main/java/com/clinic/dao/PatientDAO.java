@@ -3,6 +3,9 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
+import com.clinic.model.Patient;
+import com.clinic.util.DBConnection;
+
 public class PatientDAO {
 
     public void addPatient(Patient patient) throws SQLException {

@@ -3,6 +3,9 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
+import com.clinic.model.UrgencyQueue;
+import com.clinic.util.DBConnection;
+
 public class UrgencyQueueDAO {
 
     public void addToQueue(UrgencyQueue queue) throws SQLException {
